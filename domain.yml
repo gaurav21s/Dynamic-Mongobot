@@ -1,0 +1,89 @@
+--- 
+actions: 
+  - action_bye
+  - action_get_treatment
+  - action_get_treatment_desc
+  - action_get_treatment_cat
+  - action_reset
+  - utter_bye
+  - utter_greet
+  - utter_treatment
+  - utter_treatment_desc
+  - utter_treatment_category
+  - action_set_provider
+entities: 
+  - disease
+  - treatment
+  - category
+intents: 
+  - treatment
+  - bye
+  - disease
+  - greet
+  - negative
+  - affirmative
+  - init
+  - category
+  
+
+responses: 
+  utter_bye: 
+    - 
+      text: "Bye! Take care"
+  utter_greet: 
+    - 
+      text: "Hi, would you like to know about symptoms/treatment for a disease"
+  utter_affirmative:
+    -
+      text: "Great!! Ask me about a disease and I will answer."  
+  utter_treatment: 
+    - 
+      text: "Treatments for {disease} are {all_treatments}"
+  utter_treatment_category: 
+    - 
+      text: "Treatment for {category} category for {disease} are {all_treat_cat}"
+  utter_treatment_desc: 
+    - 
+      text: "Details of {treatment} are ==> {desc_treatment}"
+  utter_doctor:
+    -
+     text: "Would you like to know about the providers who specialise in giving treatment for {disease}"
+  utter_pincode:
+    -
+     text: "Please enter the pincode of your location for me to search for providers"
+  utter_show_provider:
+    -
+     text: "The list of providers in your area are => {providers}"
+  utter_any_help:
+    -
+     text: "Do you need help with anything else?"
+  utter_bye_treatment:
+    -
+     text: "To know more about {disease} please click on the {link}. Adios! Take care!"
+
+session_config: 
+  carry_over_slots_to_new_session: true
+  session_expiration_time: 0
+slots: 
+  all_treat_cat: 
+    type: text
+  all_treatments: 
+    type: text
+  category: 
+    type: text
+  desc_treatment: 
+    type: text
+  disease: 
+    type: text
+  requested_slot: 
+    type: unfeaturized
+  treatment: 
+    type: text
+  user: 
+    type: text
+  pincode:
+    type: text
+  providers:
+    type: text
+  link:
+    type: text
