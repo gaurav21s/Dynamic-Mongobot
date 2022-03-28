@@ -1,0 +1,456 @@
+## intent:disease
+- what are the treatments for [gastritis](disease)
+- tell me the treatments for  [gout](disease)
+- what are the treatments for [gallstones](disease)
+- tell me the treatments for  [gallstones](disease)
+- what are the treatments for [celiac disease](disease)
+- tell me the treatments for  [celiac disease](disease)
+- what are the treatments for [anxiety disorder](disease)
+- tell me the treatments for  [anxiety disorder](disease)
+- what are the treatments for [constipation](disease)
+- tell me the treatments for  [constipation](disease)
+- what are the treatments for [gout](disease)
+- tell me the treatments for  [gastritis](disease)
+- what are the treatments for [constipation](disease)
+
+## intent:treatment
+- describe [prescription medication](treatment)
+- describe [laparoscopic bowel resection](treatment)
+- describe [nutritional or herbal supplements](treatment)
+- describe [dietary changes](treatment)
+- describe [regular exercise](treatment)
+- describe about [prescription medication](treatment)
+- describe about [laparoscopic bowel resection](treatment)
+- describe about [nutritional or herbal supplements](treatment)
+- describe about [dietary changes](treatment)
+- describe about [regular exercise](treatment)
+- tell me  about [prescription medication](treatment)
+- tell me about [laparoscopic bowel resection](treatment)
+- tell me about [nutritional or herbal supplements](treatment)
+- tell me about [dietary changes](treatment)
+- tell me about [regular exercise](treatment)
+- tell me about [enema](treatment)
+
+## intent:category
+- which of these are [prescription medications](category)
+- which of these are [home](category) based remedies
+- which of the these are [medical procedures](category)
+- which of these are [equipments](category)
+- which of these are [therapies](category)
+- which of these are [over the counter](category) remedies
+- what are [prescription medications](category)
+- what are the [home](category) based remedies
+- what are the [medical procedures](category)
+- what are the [equipments](category)
+- what are the [therapies](category)
+- what are the [over the counter](category) remedies
+
+## intent:greet
+- how are you doing hi howdy
+- hi whats up
+- are you around? good day
+- hello hi hello
+- hello good morning hey
+- how are you hola hello
+- how is it going sup
+- howdy are you around hello
+- how is it going hello hey
+- hello howdy
+- hello are you around?
+- morning howdy
+- good afternoon how is it going
+- hey morning hey
+- morning hey hello
+- howdy are you there
+- whatsup howdy hey
+- good afternoon how are you doing
+- hello howdy hello
+- hey greetings hello
+- morning hi hi
+- good night hola howdy
+- hey how are you doing hey
+- sup are you there
+- hello hey hi
+- howdy how is it going hola
+- are you around? hola howdy
+- good night good afternoon
+- good afternoon hello hi
+- hi how are things going hi
+- good morning hola hey
+- hi good afternoon
+- good night good night
+- howdy howdy hi
+- hey morning hola
+- good afternoon hi hello
+- sup howdy hi
+- whatsup morning
+- hola good day howdy
+- good night howdy hey
+- hey hi howdy
+- hey are you there hello
+- good day greetings
+- sup hello hello
+- hi morning
+- good day how are you doing
+- hello good morning hola
+- good morning hola hello
+- hello hey howdy
+- hey good day
+- whatsup hola
+- good night good day
+- are you around hola hola
+- hi good morning hola
+- hello howdy hey
+- hey good night hola
+- sup hi hey
+- sup good afternoon
+- hi how are you hola
+- are you there hey hey
+- hola good afternoon howdy
+- how are you doing hey
+- how are things going how is it going
+- howdy hello hola
+- how is it going howdy howdy
+- hey greetings howdy
+- how are you whats up
+- hey good day howdy
+- morning hey howdy
+- howdy good night howdy
+- are you around howdy hi
+- hola hey howdy
+- are you around? morning
+- good day hey
+- hello are you there hello
+- hello good day
+- how are you doing howdy
+- are you around? sup
+- hola hey hey
+- hello are you around
+- good morning hey hola
+- whats up hola hola
+- hello good day howdy
+- sup
+- hey greetings hola
+- greetings hello howdy
+- hey hi hi
+- hola are you around? howdy
+- how are things going hello hola
+- greetings good night
+- are you around hola hi
+- hello good afternoon
+- are you there morning
+- howdy good day hola
+- hey hello hola
+- howdy good night hola
+- are you around howdy
+- good afternoon how are you
+- greetings hi howdy
+- hello hi hi
+- hi
+
+## intent:bye
+- have to go adios
+- im leaving now chau goodbye chao im leaving now
+- adios gtg gtg heading out
+- going out bye gtg farewell leaving
+- have to go bye ttyl adieu got to go
+- im leaving now adieu bye ttyl heading out
+- going out goodbye ttyl bye going out
+- talk to you soon ttyl ttyl adios
+- talk to you later chau adieu goodbye have to go
+- heading out gtg gtg gtg
+- im leaving now farewell ttyl chau talk to you later
+- talk to you soon chao ttyl leaving
+- got to go chao farewell goodbye have to go
+- have to go bye ttyl chao going out
+- leaving chao farewell adios got to go
+- leaving chau chao gtg heading out
+- got to go farewell gtg gtg heading out
+- talk to you later farewell gtg farewell talk to you soon
+- have to go ttyl goodbye chao im leaving now
+- talk to you soon farewell chao gtg talk to you soon
+- going out farewell adieu farewell im leaving now
+- going out chau goodbye chau talk to you later
+- heading out adieu gtg adieu have to go
+- have to go farewell adieu farewell talk to you later
+- have to go goodbye gtg adios talk to you later
+- going out chau chau chao talk to you soon
+- got to go gtg chau have to go
+- talk to you later gtg bye going out
+- im leaving now goodbye bye gtg im leaving now
+- talk to you soon adios adieu talk to you soon
+- im leaving now goodbye chau heading out
+- have to go farewell gtg adieu talk to you soon
+- have to go chao farewell chao got to go
+- have to go chao bye bye going out
+- talk to you soon goodbye farewell chao leaving
+- talk to you soon adios ttyl chau im leaving now
+- have to go farewell ttyl ttyl talk to you later
+- have to go chao chao goodbye leaving
+- heading out adios gtg gtg got to go
+- im leaving now bye gtg gtg talk to you later
+- talk to you later ttyl chao adios have to go
+- have to go chao farewell adios have to go
+- heading out goodbye bye talk to you soon
+- have to go farewell ttyl adios leaving
+- leaving adios adieu chau going out
+- goodbye adieu chao have to go
+- farewell goodbye goodbye got to go
+- talk to you soon bye gtg ttyl heading out
+- talk to you soon farewell gtg farewell talk to you later
+- have to go chao bye gtg im leaving now
+- talk to you soon adieu adieu chao talk to you later
+- have to go gtg adios farewell talk to you later
+- going out bye chao adieu got to go
+- talk to you soon chau chao talk to you soon
+- im leaving now adieu farewell chau talk to you soon
+- im leaving now bye bye adios have to go
+- heading out ttyl adieu chao have to go
+- got to go bye gtg adieu im leaving now
+- talk to you later bye adios bye going out
+- got to go goodbye gtg goodbye heading out
+- got to go ttyl chao chao have to go
+- im leaving now ttyl ttyl adieu
+- heading out adios gtg adieu leaving
+- talk to you later bye chau bye going out
+- have to go adieu goodbye chau heading out
+- leaving bye goodbye have to go
+- heading out chao farewell farewell im leaving now
+- heading out bye chao chao
+- talk to you later chau chau have to go
+- talk to you later chao chau farewell leaving
+- talk to you later chao adios adieu have to go
+- got to go adieu bye adieu talk to you later
+- going out adieu adios chao
+- leaving chau adios adios going out
+- adios chao farewell talk to you later
+- have to go gtg im leaving now
+- going out chao adieu chao got to go
+- going out ttyl goodbye adios got to go
+- talk to you later ttyl chau chao got to go
+- have to go adieu chau chao have to go
+- leaving chau chao bye im leaving now
+- going out goodbye chao chau talk to you later
+- bye farewell bye going out
+- talk to you later adios farewell adios have to go
+- talk to you later chao bye farewell talk to you later
+- leaving chao chao talk to you later
+- heading out chau farewell bye im leaving now
+- have to go adieu ttyl chau going out
+- talk to you later ttyl goodbye ttyl leaving
+- im leaving now chau adios adieu leaving
+- heading out gtg ttyl farewell going out
+- talk to you soon goodbye adieu chao
+- got to go ttyl adieu
+- talk to you soon chau goodbye ttyl going out
+- got to go ttyl goodbye adios leaving
+- have to go adios farewell gtg im leaving now
+- heading out farewell chao chao im leaving now
+- chao bye gtg leaving
+- talk to you later farewell chau chao heading out
+- talk to you later farewell adieu have to go
+- bye
+
+## intent:affirmative
+- im good with that
+- you're goddamn ok
+- right ok please
+- yes yes to that correct yep
+- you got that right
+- yes
+- correcto i want that
+- yes that is yes sir
+- right ok affirmative right
+- allright right correcto right
+- correct yep correcto right
+- allright si yes sir right
+- right yes affirmative correcto
+- correcto correct yes to that yes to that
+- si yes ok si
+- ok si yes
+- yes sir yes yes to that
+- correcto right si
+- yes sir si affirmative
+- yes sir yep affirmative yes
+- yes right correcto right
+- correct allright correct
+- correcto si yes to that yep
+- ok correct si yes to that
+- right affirmative right correcto
+- affirmative right right si
+- yes yep yes sir correct
+- right right si right
+- si yes yep si
+- right yes affirmative ok
+- si ok right yep
+- yes si right correcto
+- affirmative correct affirmative correct
+- correct yes to that yes to that yep
+- right allright affirmative correct
+- si yep yes sir allright
+- yes sir yep yes sir correct
+- si affirmative si ok
+- right yes to that si si
+- right yes yes to that right
+- correct right right yes to that
+- right yep si right
+- yes sir right right yep
+- right correcto ok
+- yes to that yes ok correcto
+- affirmative yes sir si yes sir
+- yep yes sir right right
+- correcto yes sir right
+- correcto yes yes yep
+- allright allright affirmative right
+- correcto right yes to that correcto
+- ok yes sir yep
+- right correct ok ok
+- right yes sir yes right
+- affirmative si correct right
+- correct correct si correct
+- yep yes sir allright yep
+- ok yes sir correct yes to that
+- ok affirmative ok
+- correcto correcto correcto affirmative
+- affirmative affirmative correcto si
+- right yes sir yes yes to that
+- yes sir yes yes sir yep
+- correcto correcto correcto yes
+- affirmative right si correcto
+- yes to that right ok right
+- yes sir correct yep ok
+- yes si ok right
+- yep affirmative correcto
+- ok right right
+- yes to that correcto yes to that correct
+- yes correct yes sir right
+- yes ok correct right
+- yes to that si yep si
+- yes to that allright si ok
+- right correcto yes to that right
+- correct yes sir ok si
+- yes yep yep
+- right correct ok
+- correct affirmative yes
+- si yep si right
+- ok yes sir yep correct
+- affirmative yes sir yes to that yes to that
+- yes to that yes sir yep correct
+- ok right yes sir correcto
+- ok affirmative correct si
+- yes right correcto yep
+- si affirmative correct yep
+- yes sir yes to that allright correcto
+- si right yep si
+- yes to that si allright allright
+- yes right right
+- si yes to that
+- yep si ok affirmative
+- correcto yes si correct
+- affirmative right allright yes
+- yes to that ok yes sir correcto
+- affirmative right right yes
+- right right correcto yes sir
+- yes to that yep yes to that ok
+
+## intent:negative
+- wrong please
+- no not correct
+- im not good with that nope
+- incorrect not good
+- no incorrect no
+- not correct incorrect
+- no sir not correct no
+- wrong definitely no negative
+- no dont mean that nope
+- negative incorrect wrong
+- not correct nope
+- nope didnt meant that incorrect
+- negative incorrect negative
+- not correct dont agree on that no
+- no sir not good not correct
+- not correct not correct wrong
+- incorrect wrong
+- that is wrong incorrect
+- bad
+- nope not good for me incorrect
+- no negative
+- no negative please
+- nope ok its not fine negative
+- negative not correct no sir
+- incorrect no sir
+- didnt meant that negative
+- no not good for me
+- no sir bad wrong
+- wrong im not good with that
+- negative no incorrect
+- no its not correct
+- no sir dont mean that wrong
+- nope ok its not fine nope
+- negative nope
+- nope incorrect no sir
+- dont want that negative
+- incorrect dont agree on that nope
+- no negative nope
+- no sir wrong please
+- negative its not correct no
+- incorrect didnt meant that no
+- negative its bad no
+- nope ok its not fine wrong
+- not correct ok its not fine
+- not correct its bad nope
+- wrong dont mean that not correct
+- nope nope nope
+- negative bad no sir
+- not correct im not good with that no sir
+- no sir not what i want no sir
+- wrong didnt meant that no
+- wrong not correct no sir
+- no dont desire that incorrect
+- nope incorrect incorrect
+- no sir not correct nope
+- not correct nope please
+- incorrect didnt meant that
+- no sir dont want that negative
+- incorrect bad no sir
+- no sir incorrect wrong
+- no its not ok
+- no sir not good for me
+- no definitely no
+- wrong no sir no sir
+- no sir im not ok with that no
+- nope not good for me no sir
+- no sir wrong no sir
+- incorrect no sir no
+- no sir bad no sir
+- negative not correct
+- wrong dont want that
+- no bad
+- negative nope please
+- not correct wrong nope
+- negative no sir no sir
+- nope im not ok with that no sir
+- nope definitely no wrong
+- not correct not correct negative
+- no sir not correct
+- nope incorrect no
+- not correct not what i want
+- no no sir
+- no its bad no sir
+- incorrect bad
+- nope its not correct no sir
+- wrong didnt meant that no sir
+- not correct not correct nope
+- incorrect dont agree on that
+- incorrect its bad no
+- not correct dont mean that no
+- incorrect that is wrong
+- wrong negative no sir
+- incorrect wrong please
+- not correct not good wrong
+- wrong its not ok nope
+- not correct negative
+- that is bad wrong
+- not correct incorrect no
+- negative not correct not correct
+- nope its not correct wrong
